@@ -1,5 +1,5 @@
 # login_php
-* Simple sign in and login with php *
+* Simple sign in and login with php
 # How to use with XAMPP:
 1_ Run xampp (Apache and MySQL)  
 2_ Copy "website" folder to   `C:\xampp\htdocs`  

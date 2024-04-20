@@ -1,0 +1,32 @@
+#main-header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #333;
+    text-align: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+#site-title {
+    color: #ddd;
+}
+#main-nav ul {
+    list-style-type: none;
+    margin-top: 20px;
+}
+#main-nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+.nav-link {
+    color: #fff;
+    text-decoration: none;
+    font-size: 20px;
+}
+.nav-link:hover {    
+    background-color: #fff;
+    color: #000;
+    border-radius: 20px;
+    padding: 30px;
+}
